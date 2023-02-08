@@ -445,7 +445,7 @@ body, #container-wrap { background:#000; }
 #slider { width:1920px; height:1080px; }
 .page-scale-wrap { width:1920px; height:1080px; background: #fff !important; }
 .paper-vertical { width:1920px; height:100%; }
-.paper-horizontal { width:36670px; height:1092px; }
+.paper-horizontal { width:38600px; height:1092px; }
 nav#page-nav { display:none; }
 html.nav-transition nav#page-nav { opacity:.3; pointer-events:none; }
 nav#page-nav > button {
